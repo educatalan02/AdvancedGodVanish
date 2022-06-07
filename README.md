@@ -1,7 +1,7 @@
 # AdvancedGodVanish
 AdvancedGodVanish RocketMod4
 
-##Commands - Permissions
+## Commands - Permissions
 remotegod - remotegod
 remotevanish - remotevanish
 god - god
