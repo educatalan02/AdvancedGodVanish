@@ -6,7 +6,7 @@ using Rocket.Core.Plugins;
 
 namespace RedstonePlugins.AdvancedGodVanish
 {
-    public class AdvancedGodVanish : RocketPlugin<Configuration>
+    public class AdvancedGodVanish : RocketPlugin
     {
         public static AdvancedGodVanish Instance;
 

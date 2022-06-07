@@ -65,7 +65,6 @@
         <Compile Include="Commands\CommandRemoteGod.cs" />
         <Compile Include="Commands\CommandRemoteVanish.cs" />
         <Compile Include="Commands\CommandVanish.cs" />
-        <Compile Include="Configuration.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
